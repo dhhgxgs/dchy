@@ -1,0 +1,10 @@
+listen: :8443 
+
+tls:
+  cert: /etc/hysteria/server.crt 
+  key: /etc/hysteria/server.key 
+
+auth:
+  type: password
+  password: "jfjfljweiIJijfiejfhfiewf90kfj" 
+
